@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/logo2.png" alt="Logo" width="200">
+  <img src="imgs/logo2.png" alt="Logo" width="350">
 </p>
 
 <h1 align="center">ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning</h1>
