@@ -5,8 +5,8 @@
 <h1 align="center">ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning</h1>
 
 <p align="center"> <img src="imgs/ETR.png" style="width:85%;" id="title-icon"></p>
-
-## Environment Setup
+---
+## 🚀 Quick Start
 We utilized VeRL's provided official docker image.
 ### Step 1: Clone the verl repository
 the specific commit we are using is cf619d68d4b15c736ff62c26cd16739c81556e94. So,
