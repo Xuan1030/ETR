@@ -4,7 +4,7 @@
 
 <h1 align="center">ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning</h1>
 
-<p align="center"> <img src="imgs/ETR.pdf" style="width:85%;" id="title-icon"></p>
+<p align="center"> <img src="imgs/ETR.png" style="width:85%;" id="title-icon"></p>
 
 ## Environment Setup
 We utilized VeRL's provided official docker image.
