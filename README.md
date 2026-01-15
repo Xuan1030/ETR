@@ -41,11 +41,16 @@ cd verl
 pip3 install --no-deps -e .
 ```
 
+---
+
 ## 🛠️ Data Preparation
 Our training data consists of 7,000 problems randomly sampled from DeepMath-103K. You can run the following command to generate the data:
 ```bash
 python deepmath_subset.py
 ```
+
+---
+
 ## 🔥 Training
 **Follow these steps to integrate ETR into the veRL framework:**
 ```bash
@@ -70,6 +75,8 @@ The exact training script we used is ```deepmath.sh```, you can launch the train
 ```bash
 bash deepmath.sh
 ```
+
+---
 
 ## 📊 Evaluation
 We use SGLang framework to generate responses from the models.
