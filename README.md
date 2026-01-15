@@ -1,4 +1,4 @@
-# <img src="imgs/logo1.png" width="100"> ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning
+# <img src="imgs/logo1.png" width="200"> ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning
 
 ## Environment Setup
 We utilized VeRL's provided official docker image.
