@@ -131,9 +131,8 @@ aime24 = load_dataset("math-ai/aime24", split="test")
 aime24 = aime24.rename_column("problem", "question")
 aime24 = aime24.rename_column("solution", "answer")
 
-gpqa = load_dataset("Idavidrein/gpqa", "gpqa_diamond", split="train") 
-gpqa = gpqa.rename_column("Question", "question")
-gpqa = gpqa.rename_column("Correct Answer", "answer")
+gpqa = load_dataset("fingertap/GPQA-Diamond", split="test")
+
 
 
 def eval(data):
