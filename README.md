@@ -44,7 +44,7 @@ pip3 install --no-deps -e .
 ---
 
 ## 🛠️ Data Preparation
-Our training data consists of 7,000 problems randomly sampled from DeepMath-103K. You can run the following command to generate the data:
+Our training data consists of 7,000 problems from DeepMath-103K. You can run the following command to generate the data:
 ```bash
 python deepmath_subset.py
 ```
