@@ -1,9 +1,22 @@
-<p align="center">
+<!-- <p align="center">
   <img src="imgs/logo2.png" alt="Logo" width="350">
-</p>
+</p> -->
 
-<h1 align="center">ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning</h1>
+<div align="center">
 
+<img src="imgs/logo2.png" alt="Logo" width="40%">
+
+# ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasonin<br>(ACL Main 2026)
+
+</div>
+
+<!-- <h1 align="center">ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning</h1> -->
+<div align="center">
+  <a href="" target="_blank"><img src=https://img.shields.io/badge/paper-arxiv-red.svg height=22px></a>
+  <a href=https://github.com/Xuan1030/ETR target="_blank"><img src=https://img.shields.io/badge/GitHub-Repository-181717.svg?logo=github height=22px></a>
+  <!-- <a href="https://huggingface.co/datasets/Djanghao/widget2code-benchmark" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow height=22px></a> -->
+  <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank"><img src=https://img.shields.io/badge/license-Apache%202.0-blue.svg height=22px></a>
+</div>
 <p align="center"> <img src="imgs/ETR.png" style="width:85%;" id="title-icon"></p>
 
 ---
@@ -97,4 +110,12 @@ python eval.py
 ---model_path <your_model_path>
 --benchmark amc23  # Available benchmarks [amc23, aime24, gpqa, math500]
 --port 42000
+```
+
+## 📚 Citation
+
+If you find ETR useful for your research or projects, please cite our work:
+
+```bibtex
+
 ```
