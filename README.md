@@ -117,5 +117,13 @@ python eval.py
 If you find ETR useful for your research or projects, please cite our work:
 
 ```bibtex
-
+@misc{xiong2026etrentropytrendreward,
+      title={ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning}, 
+      author={Xuan Xiong and Huan Liu and Li Gu and Zhixiang Chi and Yue Qiu and Yuanhao Yu and Yang Wang},
+      year={2026},
+      eprint={2604.05355},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2604.05355}, 
+}
 ```
